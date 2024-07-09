@@ -22,6 +22,6 @@ Hi! I'm a master's student at Wits University, specializing in Data Science. I h
 
 - **Programming Languages**: Python, R, SQL
 - **Data Analysis and Visualization**: Pandas, NumPy, Matplotlib, Seaborn, ggplot2
-- **Machine Learning**: Scikit-learn, and Tytorch
+- **Machine Learning**: Scikit-learn, Tensorflow and Tytorch
 - **Databases**: MySQL
 - **Tools**: Jupyter Notebook, RStudio, and Google Colab
