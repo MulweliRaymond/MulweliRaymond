@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! I'm a master's student at Wits University, specializing in Data Science. I have a strong background in Mathematics and Statistics, having completed my undergraduate degree in BSc in Mathematics and Statistics, and an Honours degree in Statistics.
+Hi! I'm a recent MSc graduate, specializing in Data Science. I have a strong background in Mathematics and Statistics, having completed my undergraduate degree in BSc in Mathematics and Statistics, and an Honours degree in Statistics.
 
 ## Education
 
@@ -20,8 +20,8 @@ Hi! I'm a master's student at Wits University, specializing in Data Science. I h
 
 ## Skills
 
-- **Programming Languages**: Python, R, SQL
-- **Data Analysis and Visualization**: Pandas, NumPy, Matplotlib, Seaborn, ggplot2
-- **Machine Learning**: Scikit-learn, Tensorflow and Tytorch
-- **Databases**: MySQL
-- **Tools**: Jupyter Notebook, RStudio, and Google Colab
+- **Programming Languages**: Python, R, SQL, SAS
+- **Data Analysis and Visualization**: Pandas, NumPy, Matplotlib, Seaborn, ggplot2, Power BI
+- **Machine Learning**: Scikit-learn, Tensorflow and Tytorch, Azure ML, Azure AI
+- **Databases**: MySQL, Microsoft SQL Server, Azure SQL Databases
+- **Tools**: Jupyter Notebook, RStudio, and Google Colab, VS Code
