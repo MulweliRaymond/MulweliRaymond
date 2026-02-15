@@ -6,7 +6,7 @@ Hi! I'm a master's student at Wits University, specializing in Data Science. I h
 
 ## Education
 
-- **MSc in Data Science** - University of the Witwatersrand (Wits)
+- **MSc in Data Science** - University of Venda & University of the Witwatersrand (Wits)
 - **BSc in Mathematics and Statistics** - University of Venda (Univen)
 - **Honours in Statistics** - University of the Venda (Univen)
 
